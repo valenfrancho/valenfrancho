@@ -7,7 +7,9 @@
 - CSS
 - JavaScript
 
-
+<img src="./img/html_css_js-removebg-preview.png"
+     height="50"
+     alt="logos">
 
 📚 Currently learning through hands-on projects and collaborating with fellow developers.
 
