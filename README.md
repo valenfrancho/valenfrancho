@@ -6,6 +6,7 @@
 - HTML
 - CSS
 - JavaScript
+- React
 
 <img src="./img/html_css_js-removebg-preview.png"
      height="50"
