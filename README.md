@@ -7,6 +7,9 @@
 - CSS
 - JavaScript
 - React
+- SQL
+- Python
+- Flask
 
 <img src="./img/html_css_js-removebg-preview.png"
      height="50"
