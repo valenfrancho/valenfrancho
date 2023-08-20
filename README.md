@@ -7,7 +7,7 @@
 - CSS
 - JavaScript
 - React
-- SQL
+- SQL/NoSQL
 - Python
 - Flask
 
