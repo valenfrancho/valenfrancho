@@ -11,11 +11,9 @@
 - Python
 - Flask
 
-<img src="./img/html_css_js-removebg-preview.png"
+<img src="./img/html_css_js.png"
      height="50"
-     alt="fe-logos">
-
-<img src="./img/react.jpg"
+     alt="fe-logos"><img src="./img/react1.png"
      height="50"
      alt="react-logo">
 
