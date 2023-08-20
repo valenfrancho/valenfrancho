@@ -13,7 +13,11 @@
 
 <img src="./img/html_css_js-removebg-preview.png"
      height="50"
-     alt="logos">
+     alt="fe-logos">
+
+<img src="./img/react.jpg"
+     height="50"
+     alt="react-logo">
 
 📚 Currently learning through hands-on projects and collaborating with fellow developers.
 
