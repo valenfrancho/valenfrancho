@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Valentina Franciosi
 
-### I'm an enthusiastic programmer diving into the world of coding, currently working on my final project for a full stack development bootcamp with [4Geeks](https://4geeks.com/). 🚀 I'm excited about building dynamic web applications and learning new technologies along the way.
+### I'm an enthusiastic programmer diving into the world of coding, currently working on my final project for a full stack development bootcamp with . 🚀 I'm excited about building dynamic web applications and learning new technologies along the way.
 
 🌐 Full Stack Developer.
 - HTML
